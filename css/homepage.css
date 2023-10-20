@@ -5,6 +5,10 @@
   max-width: 500px;
 }
 
+div.minor-section{
+  border: 5px;
+}
+
 div.minor-section h2{
   color:crimson;
   font-family: fantasy;
