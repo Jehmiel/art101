@@ -1,7 +1,7 @@
-
-// index.js - purpose and description here
-// Author: Jehmiel Vinluan 
-// Date: October 
+// Rock Paper Scissors
+// An implementation of the game
+// Jehmiel Vinluan (jsvinlua@ucsc.edu)
+// October 2023
 
 //Pseudocode of Rock Paper Scissors
 //Accept input from player 1 for rock, paper, or scissors
