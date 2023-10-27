@@ -1,12 +1,14 @@
 /* this css file will only style the homepage of our site */
 
-.cat-photo {
-  margin: 10px;
-  max-width: 500px;
-}
 
 div.minor-section{
   border: 5px;
+  padding: 10px;
+  margin: 2px;
+}
+
+#content h1{
+  font-family:'Franklin Gothic Medium';
 }
 
 div.minor-section h2{
@@ -22,4 +24,13 @@ div.minor-section p{
 
 #my-portrait {
   width: 200px;
+  padding: 10px;
+  background-color:honeydew;
+}
+
+
+#links ul{
+  padding: 5px;
+  background-color: honeydew;
+  
 }
