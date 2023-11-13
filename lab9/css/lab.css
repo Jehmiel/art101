@@ -1,0 +1,28 @@
+.challenge{
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: honeydew;
+  }
+
+.problems{
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: honeydew;
+  }
+
+.results{
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: honeydew; 
+}
+
+  .special {
+    background-color:midnightblue;
+    border: ridge 30px blue;
+    color: white;
+    font-weight: bold;
+    
+}
