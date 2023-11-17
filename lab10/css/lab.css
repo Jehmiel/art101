@@ -1,0 +1,17 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: honeydew;
+  }
+
+.text p {
+    display: inline-block;
+    max-width: 60%;
+    margin: 3px;
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color:rgb(51, 135, 135);
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
