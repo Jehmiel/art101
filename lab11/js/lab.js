@@ -18,6 +18,7 @@ function sortName(){
     return sortedName;
 }
 
+debugger
 
 // Make event listener for your button
 $("#submit").click(function(){
